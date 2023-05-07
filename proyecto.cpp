@@ -211,7 +211,7 @@ void Borrar(){
  
         }
         j++;
-        palabra[i]='\0';
+        palabra[i] = '\0';
         while (feof(archivo)==0)
        {
          
